@@ -1,8 +1,7 @@
 test !!!
 
-<<<<<<< HEAD
 fix issue 20
-=======
+
 new feature
 add report...
->>>>>>> feature-reporting
+
