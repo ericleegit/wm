@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_f1fcfeb05d6a1b807c8887403d7e7544b6bb623d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1cad0d4f545c862bbf57c07745d5160682b72d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_03946c2e8a8de3336e6f3366292539ab976f870c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_cd5aaad5a806d66551acd20ff2e6014e174a7701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_68c8e90b1d6361b93a6fa25199356b426535dc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_46dd8d1b0c9e5a4bf18573059ddc36febe37dae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_7a914f65291a920fa1693089facd1cf243759730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d7ebdcd833ff8f47c6930c2f2a918bccf33f8ed">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c4954ea1372d1e64635ecf6d33c56ea381db8431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_482b7e5e4d2fc263c5c5048347ee60d874e4477c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="84eaf1a93d76484097cf7921119dcbfaf416b772">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/instant-run_3ae034b40e72626ebe58d16229874ea8014555a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f932c207c6aea7e50fde2592dc1725250c8e1d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_90cc78f98390a12c801c51d7cf4b11a9fb9e4357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_281a25bd69a76926434b2b7c3b15f388d8706a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b3e4d1b1409977371e1185297043102fc2a851b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d2a3151bd2ecd2f91b5255cfb0382295473afc4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a5f0aaaf9adeffe9ae22f2b838613c1af565203c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/EricLee/Downloads/Code/AS02_DatePickerDialog/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_de7f8e3fad0a48e70dfa45a2ddf86627d2f8d02a.jar" />
+    </item>
+
+</items>
